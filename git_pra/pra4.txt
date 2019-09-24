@@ -1,0 +1,2 @@
+this is text file to check config of github
+I set to not to enter user and pass
